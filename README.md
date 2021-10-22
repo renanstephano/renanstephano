@@ -1,5 +1,6 @@
 # Renan Medeiros
 - 📫 How to reach me **medevmed@protonmail.com**
+- 📂 Find me on [LinkedIn](https://www.linkedin.com/in/renan-medeiros-7633221a5/)
 
 #### These are the technologies that I'm studying now:
   <div style="display: inline_block">
@@ -18,4 +19,4 @@
 </div>
 
 ### Status:
-![Status](https://github-readme-stats.vercel.app/api?username=renanstephano&show_icons=true)
+![Status](https://github-readme-stats.vercel.app/api?username=renanstephano&theme=dark&show_icons=true)
