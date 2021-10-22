@@ -1,6 +1,6 @@
 # Renan Medeiros
 - 📂 Find me on [LinkedIn](https://www.linkedin.com/in/renan-medeiros-7633221a5/)
-- 📫 How to reach me **medevmed@protonmail.com**
+- 📫 How to reach me: **medevmed@protonmail.com**
 
 #### These are the technologies that I'm studying now:
   <div style="display: inline_block">
