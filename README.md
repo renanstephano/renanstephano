@@ -18,6 +18,3 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-### Status:
-![Status](https://github-readme-stats.vercel.app/api?username=renanstephano&theme=dark&show_icons=true)
