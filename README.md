@@ -1,6 +1,8 @@
 # Renan Medeiros
 - 📂 Find me on [LinkedIn](https://www.linkedin.com/in/renan-medeiros-7633221a5/)
 - 📫 How to reach me: **medevmed@protonmail.com**
+- 🧠 My hobbies: i have an old passion for books, and I also enjoy writing my own ficcion books.
+- 🧑‍💻 I'm currently studiyng computer engineering.
 
 #### These are the technologies that I'm studying now:
   <div style="display: inline_block">
