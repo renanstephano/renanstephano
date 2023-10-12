@@ -1,25 +1,33 @@
 # Renan Medeiros
-- 📂 Find me on [LinkedIn](https://www.linkedin.com/in/renan-medeiros-7633221a5/)
-- 📫 How to reach me: **medevmed@protonmail.com**
-- 🧠 My hobbies: i have an old passion for books, and I also enjoy writing my own ficcion stories.
-- 🧑‍💻 I'm currently studiyng computer engineering.
 
-#### These are the technologies that I'm studying now:
+📚 **About Me**
+
+- 💼 I'm a Computer Engineering student with a deep-rooted passion for books and a special appreciation for writing my own fiction stories.
+- 📖 When I'm not immersing myself in the world of books, you'll find me deep into my studies, exploring the branches of technology. I also enjoy some downtime with gaming.
+- 🎓 Currently, I'm dedicated to advancing my knowledge in Computer Engineering.
+
+📫 **Contact**
+
+- 📧 Email: [medevmed@protonmail.com](mailto:medevmed@protonmail.com)
+- 👔 LinkedIn: [Renan Medeiros](https://www.linkedin.com/in/renan-medeiros-7633221a5/)
+
+Feel free to get in touch with me to discuss common interests or potential collaboration opportunities!
+
+### Currently studying:
   <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </div>
 
-#### My skills:
+### My skills:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 <div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img align="center" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
