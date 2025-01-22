@@ -11,11 +11,11 @@
 - 📧 Email: [medevmed@protonmail.com](mailto:medevmed@protonmail.com)
 - 👔 LinkedIn: [Renan Medeiros](https://www.linkedin.com/in/renan-medeiros-7633221a5/)
 
-Feel free to get in touch with me to discuss common interests or potential collaboration opportunities!
+Feel free to get in touch with me to discuss common interests or potential collaboration opportunities.
 
 ### Currently studying:
   <div style="display: inline_block">
-      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 
 ### My skills:
