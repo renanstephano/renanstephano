@@ -7,7 +7,7 @@
 ## 🚀 About me
 
 * 🎓 Computer Engineer.
-* 🧠 Full-stack developer, microservices, and clean software architecture.
+* 🧠 Full-stack developer, focused on microservices and clean software architecture.
 * ⚙️ Experience building microservices-based systems.
 * 📚 Passionate about reading and writing fiction books — blending creativity with engineering thinking.
 
