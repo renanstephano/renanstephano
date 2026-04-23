@@ -1,6 +1,8 @@
-# Renan Stephano
+# Hello, I'm Renan Stephano 👋
 
 💡 *Nothing changes if nothing changes.*
+
+*Feel free to get in touch with me to discuss common interests or potential collaboration opportunities.*
 
 ---
 
@@ -43,7 +45,6 @@
 ---
 
 ## 📫 Contact
-*Feel free to get in touch with me to discuss common interests or potential collaboration opportunities.*
 
 * 📧 Email: **[renan.medeiros@devstephano.com](mailto:renan.medeiros@devstephano.com)**
 * 💼 LinkedIn: https://www.linkedin.com/in/renanstephano/
